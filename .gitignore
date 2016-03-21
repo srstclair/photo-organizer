@@ -1,0 +1,6 @@
+.project
+.classpath
+.settings
+target
+dependency-reduced-pom.xml
+src/main/resources/placenames.zip
